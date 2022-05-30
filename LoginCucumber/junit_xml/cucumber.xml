@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Login Feature" name="Login Test Scenario" time="0">
+<skipped><![CDATA[Given user is already on Login Page.........................................undefined
+When title of login page is QA Fake.........................................undefined
+Then user enters "admin" and "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InN1cnlhQHNraWxsZW56YS5jb20iLCJpYXQiOjE2MTEzMTc2Njh9.HVMcJZZJh8_EAhB_mcSeGLfZZarE5ZgnEgbbAxSu99g".undefined
+Then user checked rember me.................................................undefined
+Then user clicks on login button............................................undefined
+Then user get the secret string on home screen..............................undefined
+Then Close the browser......................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
